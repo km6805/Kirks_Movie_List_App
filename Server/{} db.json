@@ -1,0 +1,24 @@
+[{
+  "id":1,
+  "title":"Shawshank Redemption",
+  "description":"Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+  "imageURL":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hBcY0fE9pfXzvVaY4GKarweriG2.jpg",
+  "rating":5
+},
+{
+  "id":2,
+  "title":"Jumper",
+  "description":"A teenager with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.",
+  "imageURL":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/3pPZ9JhNz3VMmASVir5SMHvTDUU.jpg",
+  "rating":1
+},
+{
+  "id":3,
+  "title":"Ocean's Eleven",
+  "description":"Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos.",
+  "imageURL":"https://www.themoviedb.org/t/p/w300_and_h450_bestv2/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+  "rating":3
+}
+
+
+]

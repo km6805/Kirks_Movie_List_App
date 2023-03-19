@@ -1,0 +1,37 @@
+#errMesg {
+  color: red;
+}
+#movie-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.movieCard {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  width: 500px;
+  /* align-items: center; */
+}
+.imageContainer {
+  /* border: 1px solid blue; */
+}
+
+.imageContainer > img {
+  width: 10vw;
+}
+.movieText {
+  /* border: 1px solid blueviolet; */
+  flex-grow: 8;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+.rating {
+  display: flex;
+  word-wrap: unset;
+  align-content: flex-end;
+}
+.movieCard button {
+  padding: 10px;
+  margin-top: 15px;
+}
